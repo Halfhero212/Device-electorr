@@ -1,7 +1,8 @@
 {
   "projects": {
     "wow": "company-website-52f14",
-    "default": "company-website-52f14"
+    "default": "company-website-52f14",
+    "k": "company-website-52f14"
   },
   "targets": {},
   "etags": {}
